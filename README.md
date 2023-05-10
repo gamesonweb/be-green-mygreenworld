@@ -28,6 +28,10 @@ The MyGreenWorld game has been developed using the following technologies:
 - The game has been optimized for recent browsers such as Chrome, Firefox, and Safari. It may not function properly on older browser versions.
 - If you encounter any technical problems or have any suggestions to improve the game, please feel free to contact us via the email address provided in the "Support" section of the readme.
 
+
+## Repository GitHub 
+[MyGreenWorld - GitHub](https://github.com/cmarcellot/MyGreenWorld)
+
 ## Authors and support
 - [@cmarcellot](https://www.github.com/cmarcellot)
 - [@lempichaimae](https://github.com/lempichaimae)
