@@ -44,4 +44,5 @@ We are a team of three students in M1 MIAGE in Toulouse. The general concept of 
 
 ### ANTON Franklin
 [@ANTONF31](https://github.com/ANTONF31)
+https://www.linkedin.com/in/franklin-anton/
 I am a 22-year-old student and I am proud to participate in this contest. Video games and development are part of my many passions, so it is with great envy that I entered this project.
