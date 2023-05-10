@@ -33,6 +33,15 @@ The MyGreenWorld game has been developed using the following technologies:
 [MyGreenWorld - GitHub](https://github.com/cmarcellot/MyGreenWorld)
 
 ## Authors and support
-- [@cmarcellot](https://www.github.com/cmarcellot)
-- [@lempichaimae](https://github.com/lempichaimae)
-- [@ANTONF31](https://github.com/ANTONF31)
+
+Nous somme une équipe de trois étudiants en M1 MIAGE à Toulouse. 
+
+###MARCELLOT Camille
+[@cmarcellot](https://www.github.com/cmarcellot)
+
+###KHAMMA Chaimae
+[@lempichaimae](https://github.com/lempichaimae)
+
+###ANTON Franklin
+[@ANTONF31](https://github.com/ANTONF31)
+
