@@ -13,6 +13,18 @@ Your main objective is to generate as much money as possible by simply using you
 5. Be sure to carefully monitor the overall environmental impact of your city. If you exceed certain environmental impact thresholds, negative consequences may occur.
 6. Keep clicking to generate money and improve your city to maximize your revenue while minimizing your environmental impact.
 
+## Touches
+
+Z - Go ahead
+Q - Go left
+S - Go back
+D - Go right
+Right mouse click - Generate money on the tree OR buy in the shop
+R - Respawn in case of problem (position xyz to O)
+F - Fly mode
+Space - Up
+Shift - Down
+
 ## Technologies used
 The MyGreenWorld game has been developed using the following technologies:
 
