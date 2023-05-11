@@ -33,6 +33,9 @@ Space - Up
 
 Shift - Down
 
+## Story
+You have just been called by a deity for an experience to which many other players have been invited. The goal of this deity is to find a successor who will be able to manage a world while being as environmentally friendly as possible. To show your skills, it gives you the opportunity to access a virtual city. You can develop it by generating money by clicking on the tree of life in the center of it, but beware the less ecological your city is and the less prosperous it will be. Make the right choices!
+
 ## Technologies used
 The MyGreenWorld game has been developed using the following technologies:
 
