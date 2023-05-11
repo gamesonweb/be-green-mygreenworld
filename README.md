@@ -64,6 +64,7 @@ We are a team of three students in M1 MIAGE in Toulouse. The general concept of 
 
 ### KHAMMA Chaimae
 [@lempichaimae](https://github.com/lempichaimae)
+My name is Chaimae, I am a 23 years student. I love playing video games on my free time. This is the reason why I am glad and honored to be part of developping team of this of this game. [Linkedin](https://www.linkedin.com/in/chaimae-khamma-62ba02192/)
 
 ### ANTON Franklin
 [@ANTONF31](https://github.com/ANTONF31)
