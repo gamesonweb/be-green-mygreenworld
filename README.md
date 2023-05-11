@@ -56,7 +56,7 @@ The MyGreenWorld game has been developed using the following technologies:
 [MyGreenWorld - GitHub](https://github.com/cmarcellot/MyGreenWorld)
 
 ## Video gameplay 2min
-[MyGreenWorld - Gameplay 1]https://youtu.be/Gfp6HPbqAHM
+[MyGreenWorld - Gameplay 1](https://youtu.be/Gfp6HPbqAHM)
 
 ## Authors and support
 
