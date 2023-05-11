@@ -16,13 +16,21 @@ Your main objective is to generate as much money as possible by simply using you
 ## Touches
 
 Z - Go ahead
+
 Q - Go left
+
 S - Go back
+
 D - Go right
+
 Right mouse click - Generate money on the tree OR buy in the shop
+
 R - Respawn in case of problem (position xyz to O)
+
 F - Fly mode
+
 Space - Up
+
 Shift - Down
 
 ## Technologies used
