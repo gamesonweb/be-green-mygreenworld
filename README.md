@@ -55,6 +55,9 @@ The MyGreenWorld game has been developed using the following technologies:
 ## Repository GitHub 
 [MyGreenWorld - GitHub](https://github.com/cmarcellot/MyGreenWorld)
 
+## Video gameplay 2min
+[MyGreenWorld - Gameplay 1]https://youtu.be/Gfp6HPbqAHM
+
 ## Authors and support
 
 We are a team of three students in M1 MIAGE in Toulouse. The general concept of the contest (web game and babylonjs) and the subject (Be Green) really interest us and we are delighted to be able to participate.
