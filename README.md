@@ -63,12 +63,13 @@ The MyGreenWorld game has been developed using the following technologies:
 We are a team of three students in M1 MIAGE in Toulouse. The general concept of the contest (web game and babylonjs) and the subject (Be Green) really interest us and we are delighted to be able to participate.
 
 ### MARCELLOT Camille
-[@cmarcellot](https://www.github.com/cmarcellot)
+[@cmarcellot](https://www.github.com/cmarcellot) 
+My name is Camille, I am 22 years old and I am native of Perpignan. 🌴 I'm a student in my first year of Master MIAGE and passionate about new technologies. See more [Linkedin](https://www.linkedin.com/in/camille-marcellot/)
 
 ### KHAMMA Chaimae
 [@lempichaimae](https://github.com/lempichaimae)
-My name is Chaimae, I am a 23 years student. I love playing video games on my free time. This is the reason why I am glad and honored to be part of the developping team of this of this game. [Linkedin](https://www.linkedin.com/in/chaimae-khamma-62ba02192/)
+My name is Chaimae, I am a 23 years student. I love playing video games on my free time. This is the reason why I am glad and honored to be part of the developping team of this of this game. See more on [Linkedin](https://www.linkedin.com/in/chaimae-khamma-62ba02192/)
 
 ### ANTON Franklin
 [@ANTONF31](https://github.com/ANTONF31)
-I am a 22-year-old student and I am proud to participate in this contest. Video games and development are part of my many passions, so it is with great envy that I entered this project. [Linkedin](https://www.linkedin.com/in/franklin-anton/)
+I am a 22-year-old student and I am proud to participate in this contest. Video games and development are part of my many passions, so it is with great envy that I entered this project. See more on [Linkedin](https://www.linkedin.com/in/franklin-anton/)
